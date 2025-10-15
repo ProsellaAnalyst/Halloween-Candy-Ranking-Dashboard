@@ -38,7 +38,8 @@ Each visual element — from image URLs to slicer placements — was intentional
 - **Public image URLs** for candy visuals  
 
 ---
-<img <img width="731" height="695" alt="image" src="https://github.com/user-attachments/assets/adb815df-4cd9-4a17-b007-e10753f6d8c3" />
+<img width="1149" height="699" alt="image" src="https://github.com/user-attachments/assets/f38cb535-5327-4902-9eab-583bcee5dcab" />
+
 
 
 
