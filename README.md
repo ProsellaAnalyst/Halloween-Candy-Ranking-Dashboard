@@ -1,6 +1,6 @@
-# Halloween-Candy-Ranking-Dashboard
+# 🎃 Halloween Candy Ranking Dashboard 
 Power BI Dashboard: Analyze sugar, price, and popularity trends in a festive, insight-driven visual report. 🎃
-# 🎃 Halloween Candy Ranking Dashboard  
+ 
 
 ## 📊 Overview  
 This Power BI project presents an analytical deep dive into popular Halloween candies, exploring how **sugar content, price tier, and consumer preference** interact to shape overall popularity. The dashboard transforms simple candy data into an engaging, insight-rich visualization — blending analytical storytelling with themed design.  
@@ -38,6 +38,7 @@ Each visual element — from image URLs to slicer placements — was intentional
 - **Public image URLs** for candy visuals  
 
 ---
+<img <img width="731" height="695" alt="image" src="https://github.com/user-attachments/assets/adb815df-4cd9-4a17-b007-e10753f6d8c3" />
 
 
 
